@@ -1,5 +1,12 @@
 # f5
 
+Hello everyone! Thank you for using this module. Ownership
+of this project has been tranferred to and is supported by F5.
+
+https://forge.puppet.com/f5/f5
+
+Thank you!
+
 #### Table of Contents
 
 1. [Overview](#overview)
